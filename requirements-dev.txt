@@ -1,0 +1,4 @@
+-r requirements.txt
+pyinstaller>=6.3
+pillow>=10.0     # yalnızca packaging/make_icon.py için
+pytest>=7.4
